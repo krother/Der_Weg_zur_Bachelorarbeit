@@ -1,7 +1,7 @@
 
 # Der Weg zur Bachelorarbeit
 
-Hinweise zum Schreibprozess und zur Arbeit mit einem Schreibprogramm
+Hinweise zum Schreiben einer wissenschaftlichen Arbeit und zur Verwendung von Schreibprogrammen
 
 
 ![Feder](images/feather.png)

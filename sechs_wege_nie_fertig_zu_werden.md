@@ -26,7 +26,7 @@ Für eine intelligente Person ist es leicht, Buchstaben in einen Computer zu hac
 
 ## 3. Dein Fortschritt ist beliebig reproduzierbar
 
-**„Gestern habe ich drei Seiten geschafft, das mache ich heute noch einmal.”
+**„Gestern habe ich drei Seiten geschafft, das mache ich heute noch einmal.”**
 
 Deine Aufgabe ist es, eine bestimmte Anzahl von Seiten zu produzieren. Eine Seite ist eine bestimmte Anzahl Zeilten, Wörter, Buchstaben. Du kannst also Deinen Fortschritt objektiv messen. Wenn Du an einem Tag eine bestimmte Menge Text schreibst, kannst Du am nächsten Tag genauso viel fertig bringen. Es kommt nicht darauf an, daß manche Seiten mit Abbildungen, Tabellen und Aufzählungen voll sind, und andere schwierige Gedankengänge beinhalten.
 
