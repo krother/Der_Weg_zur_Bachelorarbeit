@@ -5,7 +5,7 @@
 
 Ich habe insgesamt neun gesammelt:
 
-![9 Wege zu schreiben](writing_modes.png)
+![9 Wege zu schreiben](images/writing_modes.png)
 
 #### Finde die Kernbotschft
 

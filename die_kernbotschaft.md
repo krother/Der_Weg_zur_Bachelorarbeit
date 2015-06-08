@@ -1,38 +1,52 @@
 
 # Die Kernbotschaft
 
-Find Your Central Message
+![Doppelhelix](images/dna_message.png)
 
-In 1953 Watson, Crick & Franklin discovered that the DNA is a double helix. This simple finding changed the world, and biological research in particular. It is that simplicity that made the impact of the double helix reach far beyond research. The discovery of the double helix has a clear central message. Likewise any scientific text or presentation benefits from having a clear central message.
+Im Jahr 1953 entdeckten Watson, Crick & Rosalind Franklin, daß die DNA eine Doppelhelix ist. Diese einfache Erkenntnis hat die biologische Forschung fundamental verändert. Es ist diese Einfachheit, die der Doppelhelix eine ungeheure Anziehungskraft als kulturelles Leitbild weit über die Biologie hinaus verleiht. Die Entdeckung der Doppelhelix hat eine einzelne klare Kernbotschaft. 
 
-In this article, you find three guidelines that help to find your own central message.
-One message at a time
+Genauso sollte jeder wissenschaftliche Text genau eine Kernbotschaft vermitteln.
 
-You can pursue only one central message at a time. Any extra messages weaken the impact of the central one. Imagine the structure of DNA being explained as
+In diesem Kapitel findest Du Drei Ansätze, die Dir beim Finden Deiner eigenen Kernbotschaft helfen.
 
-"The DNA is a double helix and RNA sometimes makes helices, too".
+## Eine Kernbotschaft auf einmal
 
-This is what happened to my PhD thesis. I was struggling for a year to fit two unrelated subjects in. The outcome was not as nice as it could have been. When writing a thesis, you usually get away with two or more central messages. When writing other scientific texts, more messages will confuse your reviewers. For a paper, you can respond to the reviewers, but for a grant application confusion is fatal. Therefore, find one central message and stick to it.
-The message must be simple
+Du kannst nur eine Aussage auf einmal verfolgen. Alles was Du außerdem hinzufügst, macht Deine Kernaussage zwangsläufig schwächer. Stelle Dir vor, die Struktur der DNA würde Dir folgendermaßen erklärt:
 
-A good central message can't be too long. Imagine the DNA introduced to the world as
+*"Die DNA ist eine Doppelhelix, und RNA macht manchmal auch Helices."*
 
-"The DNA is a pair of linear polymers of riboses linked by phosphodiester bonds to which ...".
+**Kristian:** *Genau das ist mir bei meiner Doktorarbeit passiert. Ich habe mich ein Jahr lang damit herumgeqält, zwei Themen zusammenzuquetschen, obwohl die nichts miteinander zu tun hatten. Das Ergebnis war nicht so schön wie ich es mir gewünscht hätte."*
 
-Yes, scientists are very intelligent persons. We can understand incredibly complex matter if we have to. Only most of the time we don't have to. We prefer a clear statement over one that needs to be decyphered. Simple messages are clear.
+Bei einer Abschlußarbeit kommst Du normalerweise damit durch, wenn Du mehrere Kernbotschaften hintereinander beschreibst (auch wenn es nicht so schön ist). Bei anderen wissenschaftlichen Texten geht das nicht. Mehrere Kernbotschaften verwirren die Gutachter. Bei Fachartikeln kannst Du auf die Gutachten oft reagieren, aber wenn Du Forschungsgelder beantragst, bricht Dir die Mißachtung der *"Eine Aussage"*-Regel das Genick. Also suche Dir eine Kernbotschaft und bleib dabei.
 
-Here is an exercise: How would you summarize your results in less than ten words? How would you explain them to a lay person, your parents, your kids? When limit your words you force yourself to prioritize. What is the most important about your discovery? You may find that a central message that is simple is also more beautiful.
-Finding a central message means work
+## Die Kernbotschaft muß einfach sein
 
-A good central message does not come by itself. Reading an article about communication and writing a ten-word sentence is not sufficient. How to make sure that you don't oversimplify? What if you don't know which aspect is the most important? What if your data is complex? The fathers and mothers of the DNA were plunging through a huge pile of observations and contemplating, discussing their meaning. And it was a lot of work.
+Eine gute Kernaussage darf nicht zu lang sein. Stelle Dir vor, die DNA würde der Welt folgendermaßen vorgestellt:
 
-This is what science is about. Look at your observations, contemplate, discuss. Ask yourself: What does it mean? All to distill a brief summary, an interpretation, a conclusion, that drop of knowledge you can put into a few simple words we called a central message here. It is not easy. But as I said above: Scientists have a lot of brains. Put that grey goo to work. Take the challenge.
+*"Die DNA ist ein Paar linearer Polymere aus Ribosen, die durch Phosphodiesterbrücken verbunden sind und an denen .."*
 
-Once you have your central message, you can construct publications, presentations, posters, and grant proposals more easily. This is when the work you put into your central message pays off.
-Summary
+Ja, ich weiß, Wissenschaftler sind sehr intelligente Leute. Wir können unglaublich komplexe Sachverhalte verstehen, wenn es nötig ist. Meist ist es aber nicht nötig. Wir bevorzugen eine klare Aussage gegenüber einer, die wir erst entziffern müssen. Einfache Kernbotschaften sind klar.
 
-I learned from Edward Potworowski that having One Simple Message is the fundament of successful scientific communication. In order to communicate your science, you need to find one message that is simple enough to be understood and correct enough to be useful.
+Versuche einmal folgendes:
 
-Think of the greatest discoveries: "Everything consists of atoms", "E = mc2", "Our DNA is 99% identical to chimps".
+* Wie würdest Du Deine Arbeit in zehn Worten oder weniger zusammenfassen?
+* Wie würdest Du Deine Arbeit einem Laien erklären?
+* Wie würdest Du sie Deinen Eltern, Deinen Kindern erklären?
 
-What is your central message?
+Wenn Du die Anzahl der Wörter begrenzt, mußt Du priorisieren. Was ist das wichtigste an Deiner Forschung? Vielleicht gelangst Du sogar dazu, daß wie bei der DNA die einfachere Kernbotschaft auch die schönere ist.
+
+
+## Die Kernbotschaft zu finden macht Arbeit
+
+Eine gute Kernbotschaft findet sich nicht alleine. Ein ebook über das Schreiben zu lesen und einen Satz mit zehn Wörtern aufzuschreiben reicht nicht. Wie kannst Du sichergehen, daß Du nicht zu stark vereinfachst? Was wenn Du noch gar nicht weißt, welcher Teil Deiner Arbeit der wichtigste ist? Was wenn Deine Daten komplex sind und Du sie noch nicht verstanden hast? Auch die Entdecker der DNA wahren an diesem Punkt, sie hatten einen Berg von Beobachtungen, den sie interpretieren und diskutieren mußten. Und das war ein Haufen Arbeit.
+
+Genau darum geht es bei Wissenschaft. Schaue Dir Deine Beobachtungen an, überlege, diskutiere sie. Stelle Dich der Frage: *Was hat das alles zu bedeuten?* Alles nur, damit am Ende eine kurze Zusammenfassung, eine Schlußfolgerung, ein kleiner Tropfen Wissens herauskommt. Das ist nicht leicht. Aber wie ich oben schon gesagt habe: Wissenschaftler (auch Du) sind intelligente Leute. Setze Deine grauen Zellen in Bewegung und stelle Dich der Herausforderung.
+
+## Zusammenfassung
+
+Von **Edward Potworowski** haben wir gelernt, daß eine einfache Kernbotschaft (*One Simple Message*) das Fundament gelungener wissenschaftlicher Kommunikation ist. Um Deine Forschungsergebnisse zu vermitteln, mußt Du diese eine Botschaft finden, die einfach genug ist um verstanden zu werden, und korrekt genug um nützlich zu sein.
+
+Hast Du die Kernbotschaft erst einmal gefunden, kannst Du daraus viel leichter lange und kurze Texte, Präsentationen, Poster oder Anträge für Forschungsgelder schreiben. Dann zahlt sich die Arbeit schnell aus.
+
+Wie lautet Deine Kernbotschaft?
+
