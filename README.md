@@ -32,6 +32,7 @@ Weitere Lehrmaterialien zu verwandten Themen findest Du unter: [www.gitbook.com/
 
 Veröffentlicht unter den Bedingungen der Creative Commons Namensnennungs-Lizenz 4.0.
 
+Die Quellen zu diesem Text findest Du unter [https://github.com/krother/Der_Weg_zur_Bachelorarbeit](https://github.com/krother/Der_Weg_zur_Bachelorarbeit).
 
 ## Danksagungen
 
