@@ -1,6 +1,0 @@
-
-# Literaturreferenzen
-
-
-
-
