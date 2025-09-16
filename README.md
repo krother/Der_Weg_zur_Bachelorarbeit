@@ -28,15 +28,13 @@ Wir wünschen Dir **viel Spaß beim Schreiben!**
 
 ## Kontakt
 
-[krother@academis.eu](mailto:krother@academis.eu)
+[kristian.rother@posteo.de](kristian.rother@posteo.de)
 
-[www.academis.eu](http://www.academis.eu)
-
-Weitere Lehrmaterialien zu verwandten Themen findest Du unter: [www.gitbook.com/@krother](www.gitbook.com/@krother)
+Weitere Lehrmaterialien findest Du auf [www.academis.eu](http://www.academis.eu)
 
 ## Lizenz
 
-© 2015 Dr. Kristian Rother und Dr. Magdalena Rother
+© 2025 Dr. Kristian Rother und Dr. Magdalena Rother
 
 Veröffentlicht unter den Bedingungen der Creative Commons Namensnennungs-Lizenz 4.0.
 
